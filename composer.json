@@ -1,5 +1,5 @@
 {
-    "name": "spatie/crawler",
+    "name": "koffleart/crawler",
     "description": "Crawl all internal links found on a website",
     "keywords": [
         "spatie",
@@ -20,7 +20,7 @@
         "guzzlehttp/guzzle": "^6.3 || ^7.0",
         "guzzlehttp/psr7": "^1.4",
         "nicmart/tree": "^0.3.0",
-        "spatie/browsershot": "^3.14",
+        "koffleart/browsershot": "^3.14",
         "spatie/robots-txt": "^1.0.1",
         "symfony/dom-crawler": "^4.0 || ^5.0",
         "tightenco/collect": "^5.6 || ^6.0 || ^7.0"
